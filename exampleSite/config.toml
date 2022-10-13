@@ -1,4 +1,4 @@
-baseURL = "https://LeStarlab.github.io"
+baseURL = "https://LeStarlab.github.io/minimal-bootstrap-hugo-theme"
 languageCode = "en-us"
 title = "Some Title"
 theme = "minimal-bootstrap-hugo-theme"
